@@ -2,7 +2,7 @@
 Prism Algorithm
 
 
-javac Prism.java
+javac prism.java
 
 
-java Prism
+java prism
